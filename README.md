@@ -18,4 +18,4 @@ them with insights and findings. This project covers such step in a detailed man
 
 * As defining price sensitivity was a task assigned to me, I researched various definition for it and most of the cases include product as numerator. As our service is a **subscription type**, so I defined price sensitivity as **difference between month A and present month divided by present month price** .
 
-  ![Figure](https://latex.codecogs.com/png.image?\dpi{110}&space;\bg_white&space;Sensitivity=\frac{Price_Month_1-Price_Month_2}{Price_Month_2})
+  ![Figure](https://latex.codecogs.com/png.image?\dpi{110}&space;\bg_white&space;Sensitivity=\frac{Price(Month_1)-Price(Month_2)}{Price(Month_2)})
