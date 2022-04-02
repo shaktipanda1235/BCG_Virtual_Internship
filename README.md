@@ -2,7 +2,7 @@
 * As I have worked on more than 70 datasets till now, I wanted to have a sneak-peak into industry related processes starting from client acquisition to presenting 
 them with insights and findings. This project covers such step in a detailed manner where machine learning algorithms are as necessary as client communications.
 
-## Communicating Approach
+### Communicating Approach
  Wrote an email describing my  thoughts and findings to AD, focusing on the data that I would need from the client and the analytical models I would use to test such hypothesis of wether price sensitivity affecting customer churn.
  # Exploratory Data Analysis
  * Some of the datatypes are not correctly denoted, it was changed to correct format. Also numerical data seems to be highly skewed.
@@ -27,5 +27,5 @@ them with insights and findings. This project covers such step in a detailed man
  # Model Building
  * Various models are fit with hypertuning of parameter and XGBoostClassifier was found to be best model.
  * Smote was used to improve recall value, as detection of customer churning is more important than predicting wether a customer will stay with us or not.
- # Executive Summary 
+ ## Executive Summary 
  * A final **executive summary** was created for delivering insights to client which was one page summary for all the analysis done by me.
